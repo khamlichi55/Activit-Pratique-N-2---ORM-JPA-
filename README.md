@@ -1,4 +1,4 @@
-# Activit-Pratique-N-2---ORM-JPA-
+# Activit-Pratique-N-2:ORM-JPA-
 Activité Pratique N°2 - ORM JPA 
 1. Installer IntelliJ Ultimate
 2. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
